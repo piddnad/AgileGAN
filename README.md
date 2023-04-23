@@ -1,5 +1,5 @@
 # AgileGAN
-Implementation for paper "AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning"
+Unofficial implementation for paper "AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning"
 
 The code is mainly based on these two repo: [AgileGAN-inference](https://github.com/flyingbread-elon/AgileGAN) and [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 
